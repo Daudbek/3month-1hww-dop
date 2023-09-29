@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.col{
+    margin-top: 50px;
+    width: 20%;
+    height: 200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 3px solid green;  
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+button{
+    width: 30%;
+    margin: auto;
+}
+
+.box2{
+    margin-top: 10px;
+}
+.box3{
+    margin-top: 10px;
+}
